@@ -1,0 +1,5 @@
+
+Why do you want to become a Quality Engineer / Software Test Engineer?
+I've always had a passion for quality. I like taking unclear or confusing situations and turning them into clear results that can be tested and repeated. I want to become a software quality assurance because I like investigating how systems fail and preventing those failures before customers encounter them. At university, I make sure all of my engineering projects were of the highest standard. I enjoy the challenge of making sure a process is efficient and error-free. QA engineering seemed like a logical career step given my interest.  For me, it's about the challenge to better my skills and to really ascertain a grasp on the skill set on quality assurance.
+
+
